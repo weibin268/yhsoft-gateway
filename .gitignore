@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/*
+lib/*.iml
+*.iml
+out/*
+logs/*
+classes/*
+
+yhsoft-gateway-zull/*.iml
+yhsoft-gateway-zull/target/*
+
+yhsoft-gateway-eureka/*.iml
+yhsoft-gateway-eureka/target/*
+
+yhsoft-gateway-producer/*.iml
+yhsoft-gateway-producer/target/*
